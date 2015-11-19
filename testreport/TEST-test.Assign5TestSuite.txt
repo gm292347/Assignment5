@@ -1,0 +1,27 @@
+Testsuite: test.Assign5TestSuite
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.03 sec
+------------- Standard Output ---------------
+CourseEnrollcourseID"COMP2021"
+CourseEnrollcourseID"COMP2021"
+CourseEnrollcourseID"COMP2021"
+CourseEnrollcourseID"COMP2021"
+i: 0j: 0
+i: 0j: 1
+1
+i: 1j: 0
+0
+CourseEnrollcourseID"COMP2021"
+CourseEnrollcourseID"COMP2021"
+i: 0j: 0
+0
+i: 0j: 1
+i: 1j: 0
+StudentScheme"Computing"
+StudentProgramme"61031"
+------------- ---------------- ---------------
+
+Testcase: testLevel1 took 0.007 sec
+Testcase: testLevel2 took 0.003 sec
+Testcase: testLevel3 took 0.002 sec
+Testcase: testLevel4 took 0.003 sec
+Testcase: testLevel5 took 0.001 sec
